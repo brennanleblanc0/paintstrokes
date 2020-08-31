@@ -20,6 +20,6 @@ Here you can find icons that still need to be designed:
 
 # Builds
 
-All builds will be posted (hopefully) weekly at (The Vibe)[https://thevibe.dev] repo.
+All builds will be posted (hopefully) weekly at The Vibe[https://thevibe.dev] repo.
 
 Designed by the community, for the community!
