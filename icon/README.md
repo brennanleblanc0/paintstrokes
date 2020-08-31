@@ -1,0 +1,2 @@
+#Icon (Glyph Style)
+These are the icons that will go on the base Paint Stroke. Be sure the background is transparent, the canvas is 512x512, the icon fits the Paint Stroke, and that the file name is the Bundle ID of the icon that matches the Bundle ID for the respective Paint Stroke.
