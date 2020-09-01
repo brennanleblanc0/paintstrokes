@@ -1,8 +1,0 @@
-Package: ca.brennanleblanc.paintstrokes
-Name: Paint Strokes
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: Paint Strokes - The Open Source iOS/iPadOS Theme
-Author: Brennan LeBlanc <me@brennanleblanc.ca>
-Maintainer: Brennan LeBlanc <me@brennanleblanc.ca>
-Section: Themes
