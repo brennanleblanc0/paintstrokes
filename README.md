@@ -18,4 +18,10 @@ Here you can find icons that still need to be designed:
 
 - an app (with bundle id)
 
+# Builds
+
+All builds will be posted (hopefully) weekly at The Vibe repo.
+
+https://thevibe.dev
+
 Designed by the community, for the community!
